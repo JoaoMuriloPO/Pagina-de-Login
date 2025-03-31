@@ -1,4 +1,4 @@
-const url = "https://github.com/Haxh1?tab=repositories";
+const url = "https://github.com/JoaoMuriloPO";
 const btn = document.querySelector("#btn");
 
 function openInNewTab(url) {
